@@ -39,10 +39,6 @@ For local Neo4j imports, set `NEO4J_PASSWORD`, and optionally `NEO4J_URI` and `N
 
 The main comparison holds predicted entities, co-occurrence rules, and query code constant. Query F1 measures agreement with an operational reference obtained by applying the study's normalization to manually annotated entities. CHIP-CDN strict name matching and cross-dataset analyses are reported separately. The protocol records earlier development-set inspection and retrospective rule development.
 
-## Author
-
-Wang Youlimei, Computer Information Systems, Wenzhou-Kean University.
-
 ## 中文说明
 
 本仓库为中文电子病历疾病实体标准化与知识图谱查询效用论文的配套源码。代码涵盖实体识别、疾病名称归并、共现建图、Neo4j导入及评价。数据、模型和第三方词表需依据原提供方条件自行取得；具体评价口径与实验历史见实验协议。
