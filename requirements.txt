@@ -1,0 +1,13 @@
+torch
+transformers
+pytorch-crf
+seqeval
+numpy
+pandas
+openpyxl
+scikit-learn
+tqdm
+py2neo
+neo4j
+fastapi
+uvicorn
